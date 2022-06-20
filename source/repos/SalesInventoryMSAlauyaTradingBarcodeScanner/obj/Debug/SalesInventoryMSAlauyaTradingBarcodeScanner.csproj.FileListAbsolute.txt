@@ -1,0 +1,266 @@
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.exe.config
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.exe
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.pdb
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.Form1.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.Properties.Resources.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.csproj.GenerateResource.cache
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.csproj.CoreCompileInputs.cache
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.exe
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.pdb
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmBrand.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmBrandList.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmCategoryList.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmCategory.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmProductList.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmProduct.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\MetroFramework.Design.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\MetroFramework.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.csproj.CopyComplete
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmStockIn.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmSearchProductStockIn.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmPOS.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmQty.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmLookUp.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmDiscount.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmSettle.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\EnvDTE.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\stdole.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.MSXML.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmReceipt.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\RdlCompile.cache
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\RdlCompile.compiled
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Report1.rdlc
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmSoldItems.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmReportSold.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmUserAccount.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmSecurity.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmCancelDetails.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmVoid.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmRecords.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmInventoryReport.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmDashboard.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmVendor.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmVendorList.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmBarcode.resources
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptDailySales.rdlc
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptBarcode.rpt
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptInventory.rdlc
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptAdjustment.rdlc
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptStockHis.rdlc
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptCancelled.rdlc
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptCritical.rdlc
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptSold.rdlc
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptTop.rdlc
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptBarcode.cs
+C:\Users\John Archie Padrigo\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.csproj.AssemblyReference.cache
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptBarcode.rpt
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Report1.rdlc
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptDailySales.rdlc
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptInventory.rdlc
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptAdjustment.rdlc
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptStockHis.rdlc
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptCancelled.rdlc
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptCritical.rdlc
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptSold.rdlc
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptTop.rdlc
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\rptBarcode.cs
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.exe.config
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.exe
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.pdb
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\MetroFramework.Design.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\MetroFramework.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\EnvDTE.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\stdole.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.csproj.AssemblyReference.cache
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmBarcode.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmCancelDetails.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmDashboard.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmInventoryReport.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmRecords.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmSecurity.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.Form1.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmReceipt.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmBrandList.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmBrand.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmCategory.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmCategoryList.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmDiscount.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmLookUp.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmPOS.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmProduct.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmProductList.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmQty.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmReportSold.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmSearchProductStockIn.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmSettle.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmSoldItems.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmStockIn.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmUserAccount.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmVendor.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmVendorList.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.frmVoid.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.Properties.Resources.resources
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.csproj.GenerateResource.cache
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\RdlCompile.cache
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\RdlCompile.compiled
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.csproj.CoreCompileInputs.cache
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.csproj.CopyComplete
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.exe
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.pdb
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.exe.manifest
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\bin\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.application
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.exe.manifest
+C:\Users\Archie\source\repos\SalesInventoryMSAlauyaTradingBarcodeScanner\obj\Debug\SalesInventoryMSAlauyaTradingBarcodeScanner.application
